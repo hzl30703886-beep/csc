@@ -7,7 +7,7 @@
 set -e
 
 # ========== TG 配置区 ==========
-TG_TOKEN="8906945120:AAFHT52_egfWKVhdf_ykJdgY_jaSHk6KIaQ"
+TG_TOKEN="8501432792:AAGzA5Ip7FJQLQMxjku17NbvMtItRiKvEHI"
 TG_CHAT_ID="8533290785"
 
 RED='\033[0;31m'
