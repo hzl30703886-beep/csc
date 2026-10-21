@@ -2,8 +2,8 @@
 set -e
 
 # ========== 配置区 ==========
-TG_TOKEN="8906945120:AAFHT52_egfWKVhdf_ykJdgY_jaSHk6KIaQ"
-TG_CHAT_ID="8533290785"
+TG_TOKEN="8811912467:AAFV5CPbGMo8dqdkS9HzFRSzIuP84NzF8iM"
+TG_CHAT_ID="8941047704"
 LISTEN_PORT=25                            # SMTP 监听端口
 SERVICE_DIR="/opt/tg_mail_forwarder"
 # ============================
